@@ -98,7 +98,7 @@ h2 {
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1200px) {
 
   body {
     width: 50vh;
@@ -137,7 +137,6 @@ h2 {
   #profile{
     font-size:2em;
     color:#0278ae;
-  }
-
-  
+  }  
 }
+
